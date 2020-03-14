@@ -14,3 +14,4 @@ A MinMaxScaler scales the features to between -1 and 1 to normalize them. It tra
 About the model:
 Initialize an XGBClassifier and train the model. This classifies using eXtreme Gradient Boosting- using gradient boosting algorithms for modern data science problems. 
 It falls under the category of Ensemble Learning in ML, where we train and predict using many models to produce one superior output.
+Logistic Regression as well as Support Vector Machine has also been used but they both give a lower accuracy than XGBoost classifier.
